@@ -1,4 +1,4 @@
-## RAFAEL SEU PLATINA KLKKKK
+## WELCOME TO PLEBOT
 
 O PLEBOT é um chatbot simples de atendimento de loja, com temática
 medieval.
